@@ -65,3 +65,9 @@ section {display: flex; }
 
 }
 
+.nav-list {
+    padding-left: 0;
+    width: 575px;
+    margin-top: 10px;
+    
+}
