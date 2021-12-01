@@ -100,9 +100,10 @@ section {display: flex; }
     border-radius: 100px;
     max-width: 100%;
 }.hero {
-    background-image: 400px;
+    background-image: url('HTMLCSS-LANDINGPAGE/img/hero.jpg');
+    height: 400px;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     text-transform: uppercase;
 
 }
