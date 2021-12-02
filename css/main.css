@@ -134,8 +134,8 @@ section {display: flex; }
     padding: 25px 0;
     
 }
-.banner img 
-    {width: 250px;
+.banner img {
+    width: 250px;
 }
 .banner-text{
     font-size: 30px;
