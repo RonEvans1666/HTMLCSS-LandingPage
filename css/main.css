@@ -260,12 +260,10 @@ footer:after {
     bottom: 0;
     left: 0;
     right: 0;
-    z-index: 1;
+    z-index: -1;
 }
 .list {
     flex: 0 0 75%;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding: 15px;
+    padding: 40px 15px;
 
 }
